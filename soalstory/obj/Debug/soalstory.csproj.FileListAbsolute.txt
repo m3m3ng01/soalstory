@@ -1,0 +1,7 @@
+C:\Users\A s u s\source\repos\soalstory\soalstory\bin\Debug\soalstory.exe.config
+C:\Users\A s u s\source\repos\soalstory\soalstory\bin\Debug\soalstory.exe
+C:\Users\A s u s\source\repos\soalstory\soalstory\bin\Debug\soalstory.pdb
+C:\Users\A s u s\source\repos\soalstory\soalstory\obj\Debug\soalstory.csprojAssemblyReference.cache
+C:\Users\A s u s\source\repos\soalstory\soalstory\obj\Debug\soalstory.csproj.CoreCompileInputs.cache
+C:\Users\A s u s\source\repos\soalstory\soalstory\obj\Debug\soalstory.exe
+C:\Users\A s u s\source\repos\soalstory\soalstory\obj\Debug\soalstory.pdb
